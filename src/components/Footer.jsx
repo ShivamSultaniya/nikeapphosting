@@ -49,22 +49,22 @@ export default function Footer() {
                 Products
               </h4>
               <ul className="p-0">
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   Air force 1
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   Air Max 1
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   Air Jordan 1
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   Air force 2
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   Nike Waffle Racer
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   {" "}
                   Nike Cortex
                 </li>
@@ -75,19 +75,19 @@ export default function Footer() {
                 Help
               </h4>
               <ul>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   About us
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   FAQS
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   How it works
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   Privacy policy
                 </li>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   {" "}
                   Payment policy
                 </li>
@@ -98,10 +98,10 @@ export default function Footer() {
                 Get in touch
               </h4>
               <ul>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover: text-[#b2ab9f] cursor-pointer">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover: text-[#b2ab9f] cursor-pointer transition-all">
                   customer@nike.com
                 </li>
-                <li classNames="at-3text-[#fffc] list-none text-base leading-normal hover: text-[#b2ab9f] cursor-pointer">
+                <li classNames="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   +92554862354
                 </li>
               </ul>
