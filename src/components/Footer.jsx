@@ -98,10 +98,10 @@ export default function Footer() {
                 Get in touch
               </h4>
               <ul>
-                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover: text-[#b2ab9f] cursor-pointer transition-all">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   customer@nike.com
                 </li>
-                <li classNames="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
+                <li className="mt-3 text-[#fffc] list-none text-base leading-normal hover:text-[#b2ab9f] cursor-pointer transition-all">
                   +92554862354
                 </li>
               </ul>
